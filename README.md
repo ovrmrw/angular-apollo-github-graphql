@@ -8,6 +8,8 @@ Getting data through GitHub GraphQL API using with Apollo stack for Angular.
 $ npm install
 ```
 
+Create a file named `config.secret.ts` by copying from `config.secret.default.ts`, and edit `githubToken` value for your environtment.
+
 ## Run
 ```
 $ npm start
